@@ -82,6 +82,10 @@ You can easily customize the recipe card by modifying the `App.jsx` file:
 - Modify colors using Tailwind classes
 - Add more recipe cards
 
+## Documentation
+
+📄 [View Project Documentation](./Word.odt) - Detailed project documentation in Word format
+
 ## License
 
 This project is open source and available under the MIT License.
